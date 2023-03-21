@@ -1,0 +1,2 @@
+What are classes of efficient algorithm in data structures?
+Typical algorithmic techniques are divide-and-conquer, greedy methods, and dynamic programming

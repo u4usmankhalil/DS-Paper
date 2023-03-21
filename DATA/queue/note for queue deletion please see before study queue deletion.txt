@@ -1,0 +1,11 @@
+A data structure in which elements can be inserted or deleted at/from both ends but not in the middle is?
+a) Queue
+b) Circular queue
+c) Dequeue
+d) Priority queue
+
+View Answer
+
+Answer: c
+Explanation: In dequeuer, we can insert or delete elements from both the ends. In queue, we will follow first in first out principle 
+for insertion and deletion of elements. Element with least priority will be deleted in a priority queue.

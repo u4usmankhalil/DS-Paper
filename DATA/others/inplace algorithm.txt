@@ -1,0 +1,2 @@
+an algorithm that does not need an extra space and produces an output in the 
+same memory that contains the data by transforming the input 'in-place'.

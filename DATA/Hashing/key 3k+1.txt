@@ -1,0 +1,16 @@
+--> key kis trha calculate krni ha wo khud hi question statement me btaen gy
+--> agr division method likha hoga to just value ka % 10 len gy i.e 7%10=7
+--> agr division method ky sath 2k+1 likha hoga ya 3k+1 to (2k+1) ya (3k+1) krky % len gy
+i.e (2k+1)%10 here 10 is default size you can take as you want 
+i.e (3k+1)%10 here 10 is default size you can take as you want
+
+chaining--> ye ho gya simple chaining(closed addressing ) ky lye (isky bad ham linklist lga len gy)
+
+linear probing-->aur ye ho gya linear ky lye isky bad ham next ko linearly search key value to down tk agr na mily to 
+phr start index sy key tk linearly search kren gy aur empty index pr store krwa den gy
+
+quadratic probing--> isky lye bhi above same hi agr usky bad collision occur ho to iska i*i wala formula use kren 
+gy as u know
+
+double probing/hasing--> isky lye bhi above same hi agr usky bad collision occur ho to iska u+v*i%10 wala formula 
+use kren gy as u know...Good Bye
